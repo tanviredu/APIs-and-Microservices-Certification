@@ -1,0 +1,11 @@
+{
+  "name": "test_package",
+  "version": "1.0.0",
+  "description": "This is a test for code camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tanvir rahman",
+  "license": "ISC"
+}
